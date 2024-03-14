@@ -1,0 +1,6 @@
+diferencia entre cookies y sesiones en php
+
+cookies se almacena informacion en local es decire en el navegador, se puede editar
+o borrar
+
+sesiones se almacena la informacion en el servidor, es mas seguro que las cookies
